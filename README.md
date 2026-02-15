@@ -67,12 +67,14 @@ Each repository includes:
 
 (Some examples)
 
-- Lead Enrichment Pipeline — turning raw websites into structured decision-maker data
+- Lead Enrichment Pipeline - turning raw websites into structured decision-maker data
 - [Lead Enrichment Pipeline](https://github.com/Michelangelllo/lead-enrichment-pipeline)
-- Business Concierge System  — an intelligent business concierge system that guides customers from first interaction to personalized recommendations and seamless booking — at scale.
+- Business Concierge System  - an intelligent business concierge system that guides customers from first interaction to personalized recommendations and seamless booking — at scale.
 - [Business Concierge System](https://github.com/Michelangelllo/Business-Concierge-System)
-- Outreach Personalization System — segmentation + tailored messaging at scale  
-- Ops Automation Framework — eliminating manual handoffs across teams  
+- Coaching Intake & Onboarding Automation System - streamlines the entire client intake, qualification, booking, and onboarding process for a business coaching practice
+- Outreach Personalization System - segmentation + tailored messaging at scale  
+- Ops Automation Framework - eliminating manual handoffs across teams
+    
 
 ---
 
